@@ -1,0 +1,60 @@
+<songs>
+  <song name="loop_EVE">
+    <title>©OOL JAPAN - EVE feat,girl jpeg</title>
+    <source>http://maltinerecords.cs8.biz/release/141/05.mp3</source>
+    <rhythm>o.:.x.:.o..:x.:.o:.:x:.~........o.:.x...o:.:x...o.::x:.~........o..:x.:.o:.:x...o.::x:::o:.:x...o.:.x:.:o..:x.:.o:..x...o..:x.:.</rhythm>
+  </song>
+  <song name="loop_CaroloftheBells">
+    <title>Sauniks - Carol of the Bells</title>
+    <source>https://soundcloud.com/sauniks/carol-of-the-bells-2014-edit</source>
+    <rhythm>o.:.:.:.:.:.x.-.-.-.-.-.o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.||||||||||o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.-.-.-.-.-.o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.-.-.-.-.*.o.:.:.:.:.o.x.o.:.o.:.o.o.:.:.:.:.:.x.-.-.-.-.-.o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.||||||||||o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.-.-.-.-.-.o.:.:.:.:.:.x.:.:.:.:.:.o.:.:.:.:.:.x.-.-.-.-.*.o.:.:.:.:.o.x.o.:.x.x.x.</rhythm>
+    <buildup>build_CaroloftheBells</buildup>
+    <buildupRhythm>o...:.:.:...x...:.:.:...:...:.:.:...x...:.:.:...:...:.:.:...x...:.:.:...:...:.:.:...+...........</buildupRhythm>
+  </song>
+  <song name="loop_SleighRide">
+    <title>Bootsy Collins - Sleigh Ride</title>
+    <source>https://www.youtube.com/watch?v=c8169fFRg0s</source>
+    <rhythm>o.......x.......o...o.o.x.......o.......x.......o...o.o.x.......o.......x.......o...o.o.x.......o.......x.......o...o.o.x...-.-.o.......x.......o.......x...o...o.......x...-.-.o.......x.......o.......x...o...o.......x...o...o.......x...o.o.o.---.-.x.-.-.-.</rhythm>
+  </song>
+  <song name="loop_jingle">
+    <title>DJ Snake (feat. Alesia) - Bird Machine (Jingle Bells Edition)</title>
+    <source>https://www.youtube.com/watch?v=MCGheQqRTLc</source>
+    <rhythm>o..ox.o...o.x...o..ox.o...o.x...o..ox.o...o.x...o..ox.o...o.x...o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...o..ox.o...o.x...o..ox.o...o.x...o..ox.o...o.x...o..ox.o...o.x...o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...</rhythm>
+    <buildup>build_jingle</buildup>
+    <buildupRhythm>o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...o.:.x.o.::..x...</buildupRhythm>
+  </song>
+  <song name="loop_deck">
+    <title>Alcatraz - Deck the Dubstep</title>
+    <source>https://soundcloud.com/alcatraz_music/deck-the-dubstep-deck-the</source>
+    <rhythm>o.......x.-.-.o...o...o.x...o.o.o.......x~......o.....o.x*******o.......x.-.-.o...o...o.x...o.o.o.......x~......o.....o.x-------o.....o.x.-.-.oox.o.x.o.o~......o.......x~......o.....o.x+x+x+x+o:::::::x:::::o:::o:::o:xxoox:o:o:::::::x~......o::o::o:x..x..+.</rhythm>
+    <buildup>build_deck</buildup>
+    <buildupRhythm>+...</buildupRhythm>
+  </song>
+  <song name="loop_wizardsinwinter">
+    <title>Trans-Siberian Orchestra - Wizards In Winter (Instrumental)</title>
+    <source>https://www.youtube.com/watch?v=tOh1vwJsSFg</source>
+    <rhythm>o.:...o..o.:....:.o.:....o.o.:...:..o.:....o.o.:....:.x.:..:.:.:.:..:.:.o.:....o.o.:....:.o.:....o.o.:....:.o..:...o.o..:...:.x..:.:.:.:..:.:.:.x....x...o....x....o...x.o.o....x....o...x....o...x...x..:.:..:.:.:.:.:.x....x....o...x....o...x.o..o...x....o...x....o...x....x.....:..:.:.:.:..x......:.:.:..:.:.x......x.x......x.x....x...x....xoooo::::x:::o::::x:::o::::x:o:o::::x:::o::::x:::o::::x:::x..:.:.:.:..:.:.:.x::::x:::o::::x:::o::::x:o:o::::x:::o::::x::::o:::x:::x......:.:..:.:.:..x......:.:.:.:.:..x......x.x......x.x...:....:...:....:...:....:...:....</rhythm>
+  </song>
+  <song name="loop_SugarPlumFairy">
+    <title>August Burns Red - Dance of the Sugar Plum Fairy</title>
+    <source>https://www.youtube.com/watch?v=6xMcMScOAJ0</source>
+    <rhythm>-.-.-.x.:.:.-.-.-.x.:.:.-.-.-.x.:.:.-.-.-.x.:.:.-.-.-.x.:.:.-.-.-.x.:.:.:.xxxxx.:.:.x.x.:.:.x.x.:.:.o.x...o.o...o.x...o.o...o.x...o.o...o.x...o.o...o.x...o.o...o.x...o.o...o.x...o.o.x.x.x.x.x.x.x.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.:.:.x.xxxxxx:.-.-.-.-.-.x.x.</rhythm>
+    <buildup>build_SugarPlumFairy</buildup>
+    <buildupRhythm>o.o.o.......-.-.-.......-.-.-.......x.x.x.x.x.x.o.....o.....o.....o.....o.x.x.x.xxx.x.x.x.|.|.|.</buildupRhythm>
+  </song>
+  <song name="loop_OChristmasTree">
+    <title>Rush Coil - O Christmas Tree</title>
+    <source>https://www.youtube.com/watch?v=kTbRB4VGxt8</source>
+    <rhythm>....=.......=.......=.......=.::....=.......=.......=.....***.=.....=.......=.......=.......=.::....=.......=.......=.......=.......=.......=.......=.......=:::....=.......=.......=.......||||||..=.......=.......=.......=.::....=.......=...‑.‑‑=.‑.‑.***.=.....=.......=.......=.......=.::....=.......=.......=.....***.=.....=.......=.......=.......=.::....=.......=.......=.......=.......=.......=.......=.......=:::....=.......=.......=.......||||||..=.......=.......=.......=.::....=.......=...‑.‑‑=.‑.‑.***.=.</rhythm>
+    <buildup>build_OChristmasTree</buildup>
+    <buildupRhythm>....-.......-.......-.....**-.*.....-.......-.......-.....**-.*..</buildupRhythm>
+  </song>
+  <song name="loop_Goodbye">
+    <title>Rogue - Goodbye (Winter Chords)</title>
+    <source>http://music.monstercat.com/track/goodbye-winter-chords</source>
+    <rhythm>o...x...o...x...o...x...o...x.o.o...x...o...x...o...x...o...x.o.o...x...o...x...o...x...o...x.o.o...x...o...x...o.......x....‑‑‑o.......x.....+.=.+.=.+.=.+.=.+.=.......x.....o.o...:.:.x..:..:.o...x...o...x...o...x...o...x.o.o...x...o...x...o...o.o.x..o..o.</rhythm>
+    <buildup>build_Goodbye</buildup>
+    <buildupRhythm>o...O...O...O...o...O...O...O.:.o...O...O...O...o...O...O...O...o...O...O...O...o...O...O...O.:.‑...‑...‑...‑...+...........x‑‑‑</buildupRhythm>
+  </song>
+  
+</songs>

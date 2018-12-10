@@ -1,0 +1,102 @@
+<images>
+  <image name="Asuka">
+    <source>http://myanimelist.net/character/94/Asuka_Langley_Soryu</source>
+    <fullname>Asuka Langley Soryu</fullname>
+    <align>center</align>
+  </image>
+  <image name="Azusa">
+    <source>http://myanimelist.net/character/21173/Nakano_Azusa</source>
+    <fullname>Azusa Nakano</fullname>
+    <align>center</align>
+  </image>
+  <image name="Elpeo Ple">
+    <source>http://myanimelist.net/character/14322/Ple_Elpeo</source>
+    <fullname>Elpeo Ple</fullname>
+    <align>center</align>
+  </image>
+  <image name="Haruhi Fujioka">
+    <source>http://myanimelist.net/character/18/Haruhi_Fujioka</source>
+    <fullname>Haruhi Fujioka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Hitoha">
+    <source>http://myanimelist.net/character/31765/Hitoha_Marui</source>
+    <fullname>Hitoha Marui</fullname>
+    <align>center</align>
+  </image>
+  <image name="Isuzu">
+    <source>http://myanimelist.net/character/99035/Sento_Isuzu</source>
+    <fullname>Isuzu Sento</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kirino">
+    <source>http://myanimelist.net/character/24544/Kirino_Kousaka</source>
+    <fullname>Kirino Kousaka</fullname>
+    <align>left</align>
+  </image>
+  <image name="Konata">
+    <source>http://myanimelist.net/character/2169/Konata_Izumi</source>
+    <fullname>Konata Izumi</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kurisu & Mayuri">
+    <source>http://myanimelist.net/character/34470/Kurisu_Makise, http://myanimelist.net/character/35253/Mayuri_Shiina</source>
+    <fullname>Kurisu and Mayuri</fullname>
+    <align>center</align>
+  </image>
+  <image name="Kouko">
+    <source>http://myanimelist.net/character/43669/Kouko_Kaga</source>
+    <fullname>Kouko Kaga</fullname>
+    <align>right</align>
+  </image>
+  <image name="Kyouko Toshinou">
+    <source>http://myanimelist.net/character/35871/Kyouko_Toshinou</source>
+    <fullname>Kyouko Toshinou</fullname>
+    <align>center</align>
+  </image>
+  <image name="Lain">
+    <source>http://myanimelist.net/character/2219/Lain_Iwakura</source>
+    <fullname>Lain Iwakura</fullname>
+    <align>center</align>
+  </image>
+  <image name="Madoka & Sayaka">
+    <source>http://myanimelist.net/character/37832/Madoka_Kaname, http://myanimelist.net/character/38395/Sayaka_Miki</source>
+    <fullname>Madoka and Sayaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Mashiro Shiina">
+    <source>http://myanimelist.net/character/61371/Shiina_Mashiro</source>
+    <fullname>Mashiro Shiina</fullname>
+    <align>center</align>
+  </image>
+  <image name="Miu">
+    <source>http://myanimelist.net/character/570/Miu_Matsuoka</source>
+    <fullname>Miu Matsuoka</fullname>
+    <align>right</align>
+  </image>
+  <image name="Ritsu">
+    <source>http://myanimelist.net/character/19567/Ritsu_Tainaka</source>
+    <fullname>Ritsu Tainaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Taiga">
+    <source>http://myanimelist.net/character/12064/Taiga_Aisaka</source>
+    <fullname>Taiga Aisaka</fullname>
+    <align>center</align>
+  </image>
+  <image name="Tsukasa">
+    <source>http://myanimelist.net/character/2170/Hiiragi_Tsukasa</source>
+    <fullname>Tsukasa Hiiragi</fullname>
+    <align>right</align>
+  </image>
+  <image name="Tsumiki">
+    <source>http://myanimelist.net/character/55839/Tsumiki_Miniwa</source>
+    <fullname>Tsumiki Miniwa</fullname>
+    <align>center</align>
+  </image>
+  <image name="Yui">
+    <source>http://myanimelist.net/character/19565/Yui_Hirasawa</source>
+    <fullname>Yui Hirasawa</fullname>
+    <align>center</align>
+  </image>
+</images>
